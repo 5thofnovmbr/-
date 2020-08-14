@@ -28,6 +28,10 @@ for i in range(17):
 				ans_gu += chr(j)
 				print("guest's pw =", ans_gu)
 				break
-        
-# 반복문을 하나로 해서 동시에 admin과 guest의 pw를 알아낼까 했지만 한 글자 알아내고 바로 break로 
-# 탈출하는게 빠를 것 같아서 따로 했다.
+'''
+반복문을 하나로 해서 동시에 
+admin과 guest의 pw를 알아낼까 했지만 
+한 글자 알아내고 바로 break로 
+탈출하는게 빠를 것 같아서 따로 했다.
+'''
+
