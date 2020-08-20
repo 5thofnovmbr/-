@@ -15,7 +15,7 @@ for i in range(100):
 			# admin의 pw가 더 긴걸 확인해서 break사용 
 
 # admin's pw length = 8
-# guest's pw length = 17
+# guest's pw length = 15
 
 ans_ad=''
 ans_gu=''
