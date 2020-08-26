@@ -3,7 +3,7 @@ import requests as req
 url="https://los.rubiya.kr/chall/darkknight_5cfbc71e68e09f1b039a8204d1a81456.php"
 
 ck={
-	"PHPSESSID":""
+	"PHPSESSID":"냠냠"
 }
 
 for i in range(30):
