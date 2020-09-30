@@ -1,6 +1,6 @@
 ﻿// dllmain.cpp : DLL 애플리케이션의 진입점을 정의합니다.
 #include "pch.h"
-
+// 다른 헤더들을 pch.h에 include해서 사용하는 것 같다.
 #include "windows.h"
 #include "tchar.h"
 #include "Urlmon.h"
@@ -108,3 +108,5 @@ extern "C" {
 #ifdef __cplusplus
 }
 #endif
+
+// dll을 기초부터 공부해야겠다.
