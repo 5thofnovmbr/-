@@ -1,0 +1,3 @@
+this file is made on WSL2 with Visual Studio Code.
+
+윈도우에 깔았던 git bash를 삭제하고 wls kali로 새로 git init
