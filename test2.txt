@@ -7,4 +7,5 @@ init
 add
 commit -m ""
 remote add origin {주소}
+remote add 다른이름 {주소} 다른이름에 주소가 저장
 push origin master
