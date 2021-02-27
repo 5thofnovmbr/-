@@ -1,0 +1,9 @@
+git init
+git remote add origin 레포지토리 주소
+
+git pull origin master
+git status
+git add .
+git commit -m "message"
+
+git push origin + master
